@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-ÎÒµÄ²©¿Í
+æˆ‘çš„åšå®¢
 =====
 <ul>
   {% for post in site.posts %}
