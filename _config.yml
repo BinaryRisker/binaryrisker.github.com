@@ -1,14 +1,14 @@
-# This is the default format. 
+# This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
-pygments: true
+permalink: /:categories/:year/:month/:day/:title
+highlighter: pygments
 var:
   about_path: /about
   blog_path: /blog
   tags_path : /tags.html
 
 markdown: rdiscount
-enable_tweet_button: true  
+enable_tweet_button: true
 searchindex: yes
 production_url : http://binaryrisker.com # or your custom domain name
 title : BinaryRisker
